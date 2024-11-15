@@ -3,7 +3,6 @@ body {
     padding: 0;
     background-color: rgba(245, 248, 200, 0.89);
   }
-   /* when we try to indicate id in css, start with # instead of . */
   header {
     background-color: rgba(31, 117, 88, 0.788);
     text-align: center;
